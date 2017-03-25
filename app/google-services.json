@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "317791786635",
+    "firebase_url": "https://opensancafire.firebaseio.com",
+    "project_id": "opensancafire",
+    "storage_bucket": "opensancafire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317791786635:android:78c6eb60c169d925",
+        "android_client_info": {
+          "package_name": "com.developer.allef.firebaseopensa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317791786635-6s517sbl0o3chi6lonqvojsifmcmh9th.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.allef.firebaseopensa",
+            "certificate_hash": "69a0afceaa55ebaffafddcb69521fa8db902db15"
+          }
+        },
+        {
+          "client_id": "317791786635-5pmvvv0s5msr6fpsm791t2gp3u44f2no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPG5FxZMCYZVOqUHzZJHHaGQRsheTPTfw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317791786635-5pmvvv0s5msr6fpsm791t2gp3u44f2no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
